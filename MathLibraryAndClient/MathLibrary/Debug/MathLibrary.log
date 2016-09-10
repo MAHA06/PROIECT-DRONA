@@ -1,0 +1,27 @@
+﻿Build started 9/9/2016 10:36:35 PM.
+     1>Project "C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\MathLibrary\MathLibrary.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\MathLibrary\ /I"Generated Files\\" /IDebug\ /ZI /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /D __WRL_NO_DEFAULT_LIB__ /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"pch.h" /Fp"Debug\MathLibrary.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\store\references\platform.winmd" /analyze- /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\MathLibrary\ /I"Generated Files\\" /IDebug\ /ZI /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /D __WRL_NO_DEFAULT_LIB__ /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"Debug\MathLibrary.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\store\references\platform.winmd" /analyze- /errorReport:prompt dllmain.cpp MathLibrary.cpp
+         dllmain.cpp
+         MathLibrary.cpp
+     1>c:\users\andrei\desktop\work\test\mathlibraryandclient\mathlibrary\mathlibrary.cpp(7): warning C4273: 'MathLibrary::Functions::Add': inconsistent dll linkage
+         c:\users\andrei\desktop\work\test\mathlibraryandclient\mathlibrary\mathlibrary.h(17): note: see previous definition of 'Add' (compiling source file MathLibrary.cpp)
+     1>c:\users\andrei\desktop\work\test\mathlibraryandclient\mathlibrary\mathlibrary.cpp(12): warning C4273: 'MathLibrary::Functions::Multiply': inconsistent dll linkage
+         c:\users\andrei\desktop\work\test\mathlibraryandclient\mathlibrary\mathlibrary.h(20): note: see previous definition of 'Multiply' (compiling source file MathLibrary.cpp)
+     1>c:\users\andrei\desktop\work\test\mathlibraryandclient\mathlibrary\mathlibrary.cpp(17): warning C4273: 'MathLibrary::Functions::AddMultiply': inconsistent dll linkage
+         c:\users\andrei\desktop\work\test\mathlibraryandclient\mathlibrary\mathlibrary.h(23): note: see previous definition of 'AddMultiply' (compiling source file MathLibrary.cpp)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\Debug\MathLibrary\MathLibrary.dll" /INCREMENTAL /NOLOGO WindowsApp.lib /MANIFEST:NO /DEBUG:FASTLINK /PDB:"C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\Debug\MathLibrary\MathLibrary.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /APPCONTAINER /WINMD:NO /WINMDFILE:"C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\Debug\MathLibrary\MathLibrary.winmd" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\Debug\MathLibrary\MathLibrary.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\MathLibrary.obj
+         Debug\pch.obj
+            Creating library C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\Debug\MathLibrary\MathLibrary.lib and object C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\Debug\MathLibrary\MathLibrary.exp
+         MathLibrary.vcxproj -> C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\Debug\MathLibrary\MathLibrary.dll
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\10\bin\x64\MakePri.exe New -ProjectRoot C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\MathLibrary\ -ConfigXml Debug\priconfig.xml -OutputFile C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\Debug\MathLibrary\MathLibrary.pri -IndexName MathLibrary -Verbose -Overwrite  
+     1>Done Building Project "C:\Users\Andrei\Desktop\work\test\MathLibraryAndClient\MathLibrary\MathLibrary.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.70
