@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1473951273 source:c:\users\andrei\desktop\work\ni\dll\main.cpp
+	"main.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1473951273 c:\users\andrei\desktop\work\ni\dll\main.h
+	<windows.h>
+

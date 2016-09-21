@@ -1,0 +1,17 @@
+Install Notes:
+
+1] Install The App
+2] Do not Launch The App
+3] Copy Content from Crack Folder to Install Directory [C:\Program Files\VS Revo Group\Revo Uninstaller Pro]
+4] Run Registration.reg File
+5] Enjoy This Release!!
+
+By:
+
+SceneDL
+
++========================+
+|Credits For Medicine To:|
+|                        |
+|    Ishaan Rathour      |
++========================+

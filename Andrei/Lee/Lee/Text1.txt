@@ -1,0 +1,2 @@
+5 2 2 2 2 2 2 2 5 3 3 3 3 3 3 3 3 3 3 3 3 3 6 2 2 2 2 5 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 4 4 4 4 4 4 4 4 4 
+Turn right   ->   Do 6 steps   ->   Turn right   ->   Do 12 steps   ->   Turn left   ->   Do 3 steps   ->   Turn right   ->   Do 83 steps   ->   Turn right   ->   Do 8 steps   ->   

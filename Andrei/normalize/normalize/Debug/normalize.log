@@ -1,0 +1,3 @@
+﻿  Source.cpp
+\\maha\proiect drona\andrei\normalize\normalize\source.cpp(7): warning C4091: 'typedef ': ignored on left of 'point' when no variable is declared
+  normalize.vcxproj -> \\Maha\proiect drona\Andrei\normalize\Debug\normalize.exe
