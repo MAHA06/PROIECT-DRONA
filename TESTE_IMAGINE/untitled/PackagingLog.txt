@@ -1,0 +1,24 @@
+ant:
+<ant>
+  <mkdir dir="D:\PROIECT DRONA\TESTE_IMAGINE\untitled\for_redistribution" />
+  <mkdir dir="D:\PROIECT DRONA\TESTE_IMAGINE\untitled\for_testing" />
+  <mkdir dir="D:\PROIECT DRONA\TESTE_IMAGINE\untitled\for_redistribution_files_only" />
+</ant>
+mcc -C -o untitled -W WinMain:untitled -T link:exe -d 'D:\PROIECT DRONA\TESTE_IMAGINE\untitled\for_testing' -v 'D:\PROIECT DRONA\TESTE_IMAGINE\untitled.m' 
+Compiler version: 6.0 (R2015a)
+Dependency analysis by REQUIREMENTS.
+[Warning: Adding path "D:\PROIECT DRONA\TESTE_IMAGINE" to Compiler path
+instance.] 
+Parsing file "D:\PROIECT DRONA\TESTE_IMAGINE\untitled.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 1 temporary MEX authorization files.
+Removing: 'C:\Users\MAHA\AppData\Local\Temp\mathworks_tmp_02c0824746_11272.auth'.
+Generating file "D:\PROIECT DRONA\TESTE_IMAGINE\untitled\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\compiler\Resources\default_icon.ico to D:\PROIECT DRONA\TESTE_IMAGINE\untitled\for_testing\untitled.exe.
+Attempting to embed the CTF archive into the application D:\PROIECT DRONA\TESTE_IMAGINE\untitled\for_testing\untitled.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at D:\PROIECT DRONA\TESTE_IMAGINE\untitled\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 5 minutes and 52 seconds.
