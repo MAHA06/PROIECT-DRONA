@@ -1,0 +1,9 @@
+ant:
+<ant>
+  <mkdir dir="D:\PROIECT DRONA\display_every_matrix\for_redistribution" />
+  <mkdir dir="D:\PROIECT DRONA\display_every_matrix\for_testing" />
+  <mkdir dir="D:\PROIECT DRONA\display_every_matrix\for_redistribution_files_only" />
+</ant>
+mcc -C -o display_every_matrix -W WinMain:display_every_matrix -T link:exe -d 'D:\PROIECT DRONA\display_every_matrix\for_testing' -v 'D:\PROIECT DRONA\display_every_matrix.m' 
+Compiler version: 6.0 (R2015a)
+Dependency analysis by REQUIREMENTS.

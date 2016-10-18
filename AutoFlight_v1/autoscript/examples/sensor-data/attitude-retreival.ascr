@@ -1,0 +1,11 @@
+import math
+import time
+
+print("Pitch\tRoll\tYaw")
+
+for i in range(50):
+    navdata = basicctl.navdata()
+    print("%.1f" % (navdata['attitude'][0] * (180.0/math.pi)) + '\t'
+          "%.1f" % (navdata['attitude'][1] * (180.0/math.pi)) + '\t'
+          "%.1f" % (navdata['attitude'][2] * (180.0/math.pi)))
+    time.sleep(0.1)

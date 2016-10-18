@@ -1,27 +1,2 @@
-﻿Build started 9/16/2016 5:49:10 AM.
-     1>Project "C:\Users\Andrei\Desktop\work\NI\BmpWork\BmpWork\BmpWork.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
-         Source.cpp
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(6): warning C4129: 'o': unrecognized character escape sequence
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(7): warning C4129: 'o': unrecognized character escape sequence
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(8): warning C4129: 'o': unrecognized character escape sequence
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(9): warning C4091: 'typedef ': ignored on left of 'point' when no variable is declared
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(18): warning C4129: 'i': unrecognized character escape sequence
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(30): warning C4129: 'i': unrecognized character escape sequence
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(538): warning C4101: 'j1': unreferenced local variable
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(538): warning C4101: 'i1': unreferenced local variable
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(581): warning C4101: 'Pattern_BottomRight': unreferenced local variable
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(582): warning C4101: 'Sticker_BottomRight': unreferenced local variable
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(582): warning C4101: 'Sticker_BottomLeft': unreferenced local variable
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(581): warning C4101: 'Pattern_BottomLeft': unreferenced local variable
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(484): warning C4715: 'DetectBottomLeft': not all control paths return a value
-     1>c:\users\andrei\desktop\work\ni\bmpwork\bmpwork\source.cpp(535): warning C4715: 'DetectBottomRight': not all control paths return a value
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Andrei\Desktop\work\NI\BmpWork\Debug\BmpWork.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Andrei\Desktop\work\NI\BmpWork\Debug\BmpWork.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Andrei\Desktop\work\NI\BmpWork\Debug\BmpWork.lib" /MACHINE:X86 Debug\Source.obj
-         BmpWork.vcxproj -> C:\Users\Andrei\Desktop\work\NI\BmpWork\Debug\BmpWork.exe
-     1>Done Building Project "C:\Users\Andrei\Desktop\work\NI\BmpWork\BmpWork\BmpWork.vcxproj" (Build target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:00.79
+﻿  BmpWork.vcxproj -> D:\PROIECT DRONA\Andrei\BmpWork\Debug\BmpWork.exe
+  BmpWork.vcxproj -> D:\PROIECT DRONA\Andrei\BmpWork\Debug\BmpWork.pdb (Full PDB)

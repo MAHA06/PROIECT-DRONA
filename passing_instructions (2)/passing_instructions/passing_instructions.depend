@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1473900386 source:c:\users\radumatei\desktop\passing_instructions\main.cpp
+	"main.h"
+	<fstream>
+
+1473896283 c:\users\radumatei\desktop\passing_instructions\main.h
+	<windows.h>
+

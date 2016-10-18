@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476797602 source:d:\proiect drona\bmpwork\lee_4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstdio>
+	<cmath>
+	"main.h"
+
+1476744755 d:\proiect drona\bmpwork\lee_4\main.h
+	<windows.h>
+

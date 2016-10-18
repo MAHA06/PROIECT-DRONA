@@ -1,0 +1,11 @@
+*~
+*.old
+
+.project
+.cproject
+.settings/
+.idea
+
+build/
+release/
+windows_imageprocessing_addon/

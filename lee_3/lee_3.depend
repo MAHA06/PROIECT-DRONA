@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476741021 source:c:\users\maha\desktop\lee_3\main.cpp
+	"main.h"
+	<fstream>
+	<iostream>
+	<queue>
+	<ctime>
+
+1476732631 c:\users\maha\desktop\lee_3\main.h
+	<windows.h>
+

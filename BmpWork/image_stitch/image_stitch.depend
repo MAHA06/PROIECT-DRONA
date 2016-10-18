@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476736484 source:d:\proiect drona\bmpwork\image_stitch\main.cpp
+	"main.h"
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstdio>
+	<cmath>
+
+1476736404 d:\proiect drona\bmpwork\image_stitch\main.h
+	<windows.h>
+
